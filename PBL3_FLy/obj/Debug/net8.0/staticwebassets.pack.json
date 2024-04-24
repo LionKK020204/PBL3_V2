@@ -1,0 +1,677 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PBL3_FLy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PBL3_FLy.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\css\\hover-style.css",
+      "PackagePath": "staticwebassets\\css\\hover-style.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\about\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-3.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\apple-favicon.png",
+      "PackagePath": "staticwebassets\\img\\apple-favicon.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\air-conditioner-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\air-conditioner-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\air-conditioner.png",
+      "PackagePath": "staticwebassets\\img\\icon\\air-conditioner.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\air-conditioner.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\air-conditioner.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\bathtub-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\bathtub-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\bathtub.png",
+      "PackagePath": "staticwebassets\\img\\icon\\bathtub.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\bathtub.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\bathtub.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\call-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\call-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\call.png",
+      "PackagePath": "staticwebassets\\img\\icon\\call.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\call.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\call.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\kitchen-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\kitchen-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\kitchen.png",
+      "PackagePath": "staticwebassets\\img\\icon\\kitchen.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\kitchen.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\kitchen.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\minibar-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\minibar-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\minibar.png",
+      "PackagePath": "staticwebassets\\img\\icon\\minibar.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\minibar.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\minibar.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\shield-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\shield-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\shield.png",
+      "PackagePath": "staticwebassets\\img\\icon\\shield.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\shield.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\shield.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\shower-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\shower-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\shower.png",
+      "PackagePath": "staticwebassets\\img\\icon\\shower.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\shower.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\shower.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\television-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\television-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\television.png",
+      "PackagePath": "staticwebassets\\img\\icon\\television.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\television.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\television.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\towel-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\towel-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\towel.png",
+      "PackagePath": "staticwebassets\\img\\icon\\towel.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\towel.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\towel.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\wifi-connection-signal-symbol.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\wifi-connection-signal-symbol.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\wifi-hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\wifi-hover.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\icon\\wifi.png",
+      "PackagePath": "staticwebassets\\img\\icon\\wifi.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room-slider\\room-1.jpg",
+      "PackagePath": "staticwebassets\\img\\room-slider\\room-1.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room-slider\\room-2.jpg",
+      "PackagePath": "staticwebassets\\img\\room-slider\\room-2.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room-slider\\room-3.jpg",
+      "PackagePath": "staticwebassets\\img\\room-slider\\room-3.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room-slider\\room-4.jpg",
+      "PackagePath": "staticwebassets\\img\\room-slider\\room-4.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room-slider\\room-5.jpg",
+      "PackagePath": "staticwebassets\\img\\room-slider\\room-5.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room-slider\\room-6.jpg",
+      "PackagePath": "staticwebassets\\img\\room-slider\\room-6.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room\\room-1.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-1.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room\\room-2.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-2.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room\\room-3.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-3.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room\\room-4.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-4.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\room\\room-5.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-5.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\slider\\header-slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\header-slider-1.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\slider\\header-slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\header-slider-2.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\img\\slider\\header-slider-3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\header-slider-3.jpg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\js\\booking.js",
+      "PackagePath": "staticwebassets\\js\\booking.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\js\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\js\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\vendor\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\vendor\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\jquery\\jquery-migrate.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-migrate.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\stickyjs\\sticky.js",
+      "PackagePath": "staticwebassets\\vendor\\stickyjs\\sticky.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\superfish\\hoverIntent.js",
+      "PackagePath": "staticwebassets\\vendor\\superfish\\hoverIntent.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\superfish\\superfish.js",
+      "PackagePath": "staticwebassets\\vendor\\superfish\\superfish.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\superfish\\superfish.min.js",
+      "PackagePath": "staticwebassets\\vendor\\superfish\\superfish.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\vendor\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\vendor\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\vendor\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\PBL3\\FLy\\PBL3_FLy\\wwwroot\\vendor\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\vendor\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PBL3_FLy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PBL3_FLy.props",
+      "PackagePath": "build\\PBL3_FLy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PBL3_FLy.props",
+      "PackagePath": "buildMultiTargeting\\PBL3_FLy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PBL3_FLy.props",
+      "PackagePath": "buildTransitive\\PBL3_FLy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
